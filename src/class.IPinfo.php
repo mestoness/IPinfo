@@ -4,7 +4,8 @@
 
     GitHub : https://github.com/mestoness/IpInfo
     Author : MestOness (Ahmet Baki Memiş)
-
+    Lıcence : https://github.com/mestoness/IPinfo/blob/master/LICENCE
+    
     **/
 
     namespace mestoness;
